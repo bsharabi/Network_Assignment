@@ -21,3 +21,5 @@ $ Run "make runs"
 # Open another one terminal 
 $ Run "make runp"
 ```
+
+[image](image.png)
