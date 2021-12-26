@@ -21,5 +21,5 @@ $ Run "make runs"
 # Open another one terminal 
 $ Run "make runp"
 ```
-
-[image](image.png)
+### Example
+![alt text](image.png)
